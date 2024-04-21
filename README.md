@@ -86,4 +86,5 @@ This is a Mini-Project for the course of SC1015 Introduction to Data Science and
 - https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 - https://corporatefinanceinstitute.com/resources/data-science/multiple-linear-regression/
 - https://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_regression.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
 
